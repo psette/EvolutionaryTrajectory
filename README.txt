@@ -1,7 +1,4 @@
 Dev: Pietro Sette
-Contact
-Email: psette@usc.edu
-Phone: (858) 205-5435
 
 ================================================
 IMPORTANT NOTES
